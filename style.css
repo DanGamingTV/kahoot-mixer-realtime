@@ -12,6 +12,7 @@
 body {
 	background-image: url(./img/background.jpg);
 	background-size: cover;
+	vertical-align: middle
 }
 
 a {
@@ -21,6 +22,7 @@ a {
 }
 
 .footer {
+	margin: 5px;
 	text-align: center;
 	font-size: 1.2em;
 }
