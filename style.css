@@ -1,0 +1,30 @@
+
+.mix {
+    pointer-events: none;
+}
+
+.embed {
+	text-align: center;
+	border-width: 1px;
+	border-color: white;
+}
+
+body {
+	background-image: url(./img/background.jpg);
+	background-size: cover;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-family: Calibri
+}
+
+.footer {
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.link {
+	color: cyan;
+}
