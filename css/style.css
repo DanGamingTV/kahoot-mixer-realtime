@@ -1,5 +1,20 @@
 
-.mix {
+.border-0 {
+	border: 0;
+}
+
+body {
+	background-image: url(../img/background.jpg);
+	background-size: cover;
+}
+
+@media(max-width: 992px) {
+	.md-h-50 {
+		height: 50% !important;
+	}
+}
+
+/*.mix {
     pointer-events: none;
 }
 
@@ -57,4 +72,4 @@ a {
 		width: 50%;
 		height: 50%;
 	}
-}
+}*/
